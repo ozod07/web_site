@@ -403,7 +403,7 @@ line-height: 62px;
 color: #FFFFFF;
 }
 .rectangle_button1{
-    background-image: url(Button\ 2\ \(1\).png);
+    background-image: url(/images/Button\ 2\ \(2\).png);
     background-repeat:no-repeat;
     width: 259px;
     height: 70px;
@@ -461,7 +461,7 @@ color: palevioletred;
    color: #E1E1E1;
 }
 .footer_icon4{
-    background-image: url(short_up.png);
+    background-image: url(./images/short_up.png);
     margin-left: 13px;
 margin-top: 70px;
 width: 18px;
